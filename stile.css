@@ -24,3 +24,15 @@ body{
     width:100%;
     margin: 0 auto;
 }
+
+.titulo-principall{
+    text-align: left;
+    width: 100%;
+    font-size: 32px;
+}
+
+.botao{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ffffff
+    color(srgb red green blue)
+}
